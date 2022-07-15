@@ -1,0 +1,1 @@
+fill the cookie_facebook.json file with the values of your facebook cookies after you can launch the execution of the main.py file
